@@ -1,0 +1,25 @@
+table.paper {
+  width: 100%;
+  max-width: 900px;
+  justify-content: center;
+}
+
+.titulo-tabla{
+  border-bottom: #075e4e 2px solid;
+  text-align: left;
+}
+
+.numero {
+  text-align: right;
+}
+
+.moneda {
+  text-align: center;
+}
+
+.acciones-inicio {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
