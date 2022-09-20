@@ -12,9 +12,11 @@ git clone ssh://.....
 ```
 git clone https://.....
 ```
-2. Crear un entorno virtual dentro de la raíz del repositorio
+2. Crear un entorno virtual dentro de la raíz del repositorio y activarla
 ```
 cd easyTrade
+```
+```
 python3 -m venv env
 ```
 # windows
@@ -49,6 +51,11 @@ FLASK_SECRET_KEY=tu_token_secrto
 flask run
 ```
 
-7. Seguri el link que muestra la terminal
+7. Seguir el link que muestra la terminal
+usualmente es este
+
+```
+http://127.0.0.1:5000
+```
 
 
